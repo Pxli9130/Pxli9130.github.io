@@ -5,7 +5,7 @@
 ### Website Preview
 <p align="center"> 
   <kbd>
-    <a href="https://peixuanli.github.io" target="_blank"><img src="image/a1.png">
+    <a href="https://peixuan_li.github.io" target="_blank"><img src="image/a1.png">
   </a>
   </kbd>
 </p>
