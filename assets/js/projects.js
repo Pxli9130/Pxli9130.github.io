@@ -21,7 +21,8 @@ function displayProjects(index, count) {
     const projectDiv =document.createElement('div');
 
 
-    
+// function displayProjects(index, count) {
+//   const recentProjectsDiv = document.getElementById('recent-projects');
     projectDiv.classList.add('project');
     projectDiv.innerHTML = `
     <div class="card medium">
