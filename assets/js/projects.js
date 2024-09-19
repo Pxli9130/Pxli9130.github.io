@@ -1,9 +1,9 @@
 const projects = [
-  {title: "Project 1",
-    description: "Description of project 1.",
+  {title: "Wind Turbine Control App Design (Python & JavaScript)",
+    description: "Mainly using Python (FastAPI) & JavaScript (React Native) for implementation",
     imageUrl: "assets/img/ai-wallpaper-1.jpg",},
-  {title: "Project 2",
-    description: "Description of project 2.",
+  {title: "News Catagories Calssifier (Python)",
+    description: "Built a bidirectional LSTM model to classify news categories, and trained it with data processed by Pandas, NumPy, PyTorch, etc. Final test accuracy could reach around 90%.",
     imageUrl: "assets/img/2373842_a332_2.jpg",},
 ];
 let projectIndex =0;
