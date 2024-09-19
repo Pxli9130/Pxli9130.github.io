@@ -52,7 +52,7 @@
 
 <p align="center"> 
   <kbd>
-    <a href="https://pxli9130.github.io/" target="_blank"><img src="image/a4.png">
+    <a href="https://pxli9130.github.io/" target="_blank"><img src="image/a4_n.png">
   </a>
   </kbd>
 </p>
@@ -67,14 +67,14 @@
 
 <p align="center"> 
   <kbd>
-    <a href="https://pxli9130.github.io/" target="_blank"><img src="image/a5.png">
+    <a href="https://pxli9130.github.io/" target="_blank"><img src="image/a5_n1.png">
   </a>
   </kbd>
 </p>
 
 <p align="center"> 
   <kbd>
-    <a href="https://pxli9130.github.io/" target="_blank"><img src="image/a5_2.png">
+    <a href="https://pxli9130.github.io/" target="_blank"><img src="image/a5_n2.png">
   </a>
   </kbd>
 </p>
